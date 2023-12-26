@@ -6,10 +6,13 @@ end
 
 When("the calculator is run") do
   @output = `ruby calculator.rb '#{@input}'`
-  raise 'Calculator failed to run' unless $?.success?
+
+  #raise 'Calculator failed to run' unless $?.success?
+  expect($?).to be_success, 'Calculator failed to run' # rspec
 end
 
 Then("the output should be {string}") do |expected_output|
-  raise "Expectation not met" unless @output == expected_output
+  #raise "Expectation not met" unless @output == expected_output
+  expect(@output).to eq(expected_output) # rspec
 end
 

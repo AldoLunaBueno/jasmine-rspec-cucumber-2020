@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7821fbd4-4a9d-471c-a97a-54975c62d7ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/addition.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/addition.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/step_definitions/calculator_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/calculator_steps.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703563453772</updated>
-      <workItem from="1703563457095" duration="11663000" />
+      <workItem from="1703563457095" duration="12881000" />
     </task>
     <servers />
   </component>
